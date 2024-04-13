@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on tecnology innovation
 - 📫 How to reach me. I has an LinkedIn: https://www.linkedin.com/in/rafael-silva-esquerdo/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love it lofi music and thematics cyberpunk
+- ⚡ Fun fact: i love it  thematics cyberpunk
 
 <!---
 RafaelEsquerdo/RafaelEsquerdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
